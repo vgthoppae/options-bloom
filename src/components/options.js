@@ -99,7 +99,6 @@ const Options = (props) => {
     localStorage.setItem('symbols', newSymbols);
     if (newSymbols.length === 1) {
       getTableData(symbol);
-      alert('getting data');
     }
   };
 
