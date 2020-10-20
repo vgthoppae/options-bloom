@@ -1,0 +1,6 @@
+https://www.dollarfor40cents.com/find/writtenput
+https://finance.yahoo.com/quote/SQ/options?date=1604016000&p=SQ&straddle=true
+https://api.tdameritrade.com/v1/marketdata/chains
+Query Parameters / GET info
+GET /v1/marketdata/chains?apikey=GCYYKPI2DSHFCOE4TSDY7DRDMKVAVAQU&symbol=SQ&contractType=PUT&includeQuotes=TRUE HTTP/1.1
+https://www.dollarfor40cents.com/find/writtenput
